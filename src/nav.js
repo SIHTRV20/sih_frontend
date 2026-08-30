@@ -2,7 +2,7 @@ import {
   Home, MapPin, Compass, Film, Landmark, Tag, Bookmark, User,
   LayoutDashboard, Upload, BarChart2, Handshake, Store, Package,
   Megaphone, PieChart, Users, CheckCircle2, Flag, FileText,
-  AlertTriangle,
+  AlertTriangle, Wallet, Car, Globe, AlertCircle,
 } from "lucide-react";
 
 export const NAV = {
@@ -14,6 +14,10 @@ export const NAV = {
     { id: "placeDetails", label: "Place Details", icon: Landmark },
     { id: "offers", label: "Offers", icon: Tag },
     { id: "saved", label: "Saved Places", icon: Bookmark },
+    { id: "budgetPlan", label: "Budget Plan", icon: Wallet },
+    { id: "rentedVehicles", label: "Rented Vehicles", icon: Car },
+    { id: "languageBarrier", label: "Language & Translate", icon: Globe },
+    { id: "emergencyContacts", label: "Emergency Contacts", icon: AlertCircle },
     { id: "profile", label: "Profile", icon: User },
   ],
   influencer: [

@@ -12,6 +12,10 @@ export const SCREENS = {
     placeDetails: Tourist.PlaceDetails,
     offers: Tourist.Offers,
     saved: Tourist.Saved,
+    budgetPlan: Tourist.BudgetPlan,
+    rentedVehicles: Tourist.RentedVehicles,
+    languageBarrier: Tourist.LanguageBarrier,
+    emergencyContacts: Tourist.EmergencyContacts,
     profile: Tourist.Profile,
   },
   influencer: {

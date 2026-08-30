@@ -6,3 +6,7 @@ export { default as PlaceDetails } from "./PlaceDetails";
 export { default as Offers } from "./Offers";
 export { default as Saved } from "./Saved";
 export { default as Profile } from "./Profile";
+export { default as BudgetPlan } from "./BudgetPlan";
+export { default as RentedVehicles } from "./RentedVehicles";
+export { default as LanguageBarrier } from "./LanguageBarrier";
+export { default as EmergencyContacts } from "./EmergencyContacts";
